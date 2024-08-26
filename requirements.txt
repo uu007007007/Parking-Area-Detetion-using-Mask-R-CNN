@@ -4,7 +4,7 @@ gdown
 Pillow
 scipy
 scikit-image
-# numpy==1.21.0
+numpy==1.21.0
 matplotlib
 IPython
 opencv-python

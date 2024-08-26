@@ -6,3 +6,5 @@ training_data_test.ipynb
 mask_rcnn_bbox_0100.h5
 mask_rcnn_seg_0100.h5
 Mask_RCNN
+results
+mask_rcnn_custom_weight.h5

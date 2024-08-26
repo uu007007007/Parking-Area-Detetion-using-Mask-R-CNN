@@ -48,8 +48,7 @@ class InferenceConfig(Config):
     POST_NMS_ROIS_TRAINING = 1000
 
 # 모델 경로와 이미지 디렉토리 정의
-model_path = "/home/elicer/parking_project/tyhsin/parking/mask_rcnn_custom_0010.h5"
-real_test_dir = '/home/elicer/parking_project/dataset/data/실외_대형주차장/source/'
+model_path = "/home/elicer/parking_project/tyhsin/parking/Mask_RCNN/logs/custom20240826T0716/mask_rcnn_custom_0004.h5"
 output_dir = './results'
 
 # 디렉토리 생성
